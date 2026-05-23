@@ -1,6 +1,6 @@
 {
-  "latestBuild": 8,
+  "latestBuild": 9,
   "latestVersion": "0.1.0",
   "testflightURL": "https://testflight.apple.com/join/TZHWUFVv",
-  "notes": "Minor polish, plus you'll now get a heads-up in-app when a new build is ready."
+  "notes": "New: a traffic-light mirror — tap a light to move your head between them. Plus landscape support for the little window and smoother captions in videos."
 }
