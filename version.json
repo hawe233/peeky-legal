@@ -1,6 +1,6 @@
 {
-  "latestBuild": 7,
+  "latestBuild": 8,
   "latestVersion": "0.1.0",
   "testflightURL": "https://testflight.apple.com/join/TZHWUFVv",
-  "notes": ""
+  "notes": "Minor polish, plus you'll now get a heads-up in-app when a new build is ready."
 }
