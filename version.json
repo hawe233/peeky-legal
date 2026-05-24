@@ -1,6 +1,6 @@
 {
-  "latestBuild": 10,
+  "latestBuild": 11,
   "latestVersion": "0.1.0",
   "testflightURL": "https://testflight.apple.com/join/TZHWUFVv",
-  "notes": "Landscape shooting now saves the way you framed it — the little window turns with your phone while your face stays upright. Plus a softer mirror highlight."
+  "notes": "New self-timer: set a 0–10s delay in the top-left controls, tap the shutter, and a big countdown appears before the photo fires."
 }
