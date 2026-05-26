@@ -1,6 +1,6 @@
 {
-  "latestBuild": 11,
+  "latestBuild": 12,
   "latestVersion": "0.1.0",
   "testflightURL": "https://testflight.apple.com/join/TZHWUFVv",
-  "notes": "New self-timer: set a 0–10s delay in the top-left controls, tap the shutter, and a big countdown appears before the photo fires."
+  "notes": "Faster, more reliable photo roll (no more late/missing captures), Square is now the default frame, an optional Save-to-Photos switch, and swipe-up to dismiss the update banner."
 }
